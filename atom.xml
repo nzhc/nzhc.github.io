@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://nnzhc.top/"/>
   <updated>2020-07-07T15:02:35.769Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://nnzhc.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>zhc</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My First Blog</title>
-    <link href="http://yoursite.com/2020/07/07/my-first-blog/"/>
-    <id>http://yoursite.com/2020/07/07/my-first-blog/</id>
+    <link href="http://nnzhc.top/2020/07/07/my-first-blog/"/>
+    <id>http://nnzhc.top/2020/07/07/my-first-blog/</id>
     <published>2020-07-07T14:47:09.296Z</published>
     <updated>2020-07-07T15:02:35.769Z</updated>
     
