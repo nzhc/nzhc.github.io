@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zhc</title>
+  <title>ZhC&#39;s  Blog</title>
   <icon>https://www.gravatar.com/avatar/0a0c84ac931a162e340b4942cb4ca7ec</icon>
-  <subtitle>Blog</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nnzhc.top/"/>
@@ -10,7 +10,7 @@
   <id>http://nnzhc.top/</id>
   
   <author>
-    <name>Zhc</name>
+    <name>ZhC</name>
     <email>799280801@qq.com</email>
   </author>
   
